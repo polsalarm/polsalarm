@@ -30,28 +30,30 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
 
-> Aspiring **Product Manager** and **Software Engineer**, currently a Computer Science student at **FEU Tech**. I lead cross-functional teams as **Project Lead / Tech Lead** — translating user pain points into shipped features: defining roadmaps, prioritizing scope under tight constraints, and aligning design with technical feasibility. On the build side I ship high-performance full-stack web platforms and mobile-first PWAs (React, TypeScript, Node.js) plus cloud-powered automation workflows and Web3 dApps on Stellar.
+<table border="0">
+<tr>
+<td width="62%" valign="top">
 
-```typescript
-const paul: Engineer & ProductPerson = {
-  name: "Paul Henry Dacalan",
-  title: "Aspiring Product Manager & Software Engineer",
-  roles: ["Product Manager", "Project Lead", "Tech Lead", "Full-Stack Developer", "Web3 Builder"],
-  education: "BS Computer Science (Software Engineering) @ FEU Tech '27",
-  honors: ["CCSMA Dean's Lister — Gold (Jul 2025)", "Bronze (Apr 2025)"],
-  currentlyBuilding: "BackTrack — CI/CD automated rollback for Docker & K8s (thesis)",
-  communities: [
-    "Stellar Philippines — Ambassador",
-    "AWS User Group e:Novators PH — Committee Member",
-    "WorkFlow PH (AWS Cloud Club PH) — DevTeam",
-    "FEU Tech ACM Student Chapter — Director for Sports",
-  ],
-  focus: "Translating user pain points into shipped products",
-  builds: ["Full-stack web platforms", "Mobile-first PWAs", "Web3 dApps", "Cloud automation"],
-  practices: ["Agile/Scrum", "DORA metrics", "ISO/IEC 25010"],
-  mindset: "do what it takes",
-};
-```
+Aspiring **Product Manager** & **Software Engineer**, currently a CS student at **FEU Tech '27**. I lead cross-functional teams as **Project / Tech Lead**, translating user pain points into shipped features — defining roadmaps, prioritizing scope under tight constraints, and aligning design with technical feasibility.
+
+- 🔭  **Building BackTrack** — leading a 4-person team on a CI/CD automated rollback system that detects deployment anomalies in Docker & Kubernetes via Time Series Decomposition + Latent Semantic Indexing *(undergrad thesis · Project Manager)*
+- 💼  **Product side** — roadmaps, scope prioritization, and design–feasibility alignment under hackathon-tight constraints, measured against Agile/Scrum, DORA, and ISO/IEC 25010
+- 🛠️  **Engineering side** — high-performance full-stack web platforms & mobile-first PWAs in React, TypeScript, and Node.js, plus cloud-powered automation workflows
+- ⛓️  **Web3** — Stellar/Soroban smart contracts in Rust: gasless escrow (PalengkePay), on-chain credential anchoring (VeracityLink), DeFi primitives (ScoutGrid)
+- 🏆  **6x hackathon placements** — 1st Runner Up @ UPSoComsci Hack It Up 2026, Track C Champion @ InnOlympics 2026, plus Stellar Unitour, NASA & IBM finals
+- 🌐  **Communities** — Stellar Philippines Ambassador · AWS User Group e:Novators PH (Committee) · WorkFlow PH / AWS Cloud Club PH (DevTeam) · FEU Tech ACM (Director for Sports)
+- 🎓  **CCSMA Dean's Lister** — Gold (Jul 2025), Bronze (Apr 2025)
+- 💬  Ask me about **Stellar · Soroban · Rust · React · tRPC**
+- ⚡  Mindset: *do what it takes*
+
+</td>
+<td width="38%" valign="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
+
+</td>
+</tr>
+</table>
 
 > **BackTrack (thesis · Project Manager)** — led a 4-member team building a CI/CD automated rollback system that detects deployment anomalies in Docker & Kubernetes via Time Series Decomposition (TSD) and Latent Semantic Indexing (LSI). Drove research-grade results: **94.35% F1-score** across 8 apps / 31 services, **71.85s avg MTTR** (below DORA's elite benchmark), and a **4.68/5 ISO/IEC 25010** quality score from IT experts and developers.
 
@@ -94,60 +96,72 @@ const paul: Engineer & ProductPerson = {
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/polsalarm/PalengkePay">
+      <a href="https://palengke-pay.vercel.app">
         <img src="https://opengraph.githubassets.com/main/polsalarm/PalengkePay" width="100%" alt="PalengkePay" />
       </a>
-      <br><b><a href="https://github.com/polsalarm/PalengkePay">PalengkePay</a></b>
+      <br><b><a href="https://palengke-pay.vercel.app">PalengkePay</a></b>
       <br><sub>Stellar micropayment dApp + on-chain BNPL for PH market vendors. Gasless txns, Rust (Soroban) escrow.</sub>
       <br><sub>🥈 1st Runner Up — UPSoComsci Hack It Up 2026</sub>
+      <br><sub><a href="https://palengke-pay.vercel.app">Live ↗</a> · <a href="https://github.com/polsalarm/PalengkePay">Code ↗</a></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/polsalarm/VeracityLink3.0">
+      <a href="https://veracity-link.vercel.app">
         <img src="https://opengraph.githubassets.com/main/polsalarm/VeracityLink3.0" width="100%" alt="VeracityLink" />
       </a>
-      <br><b><a href="https://github.com/polsalarm/VeracityLink3.0">VeracityLink</a></b>
+      <br><b><a href="https://veracity-link.vercel.app">VeracityLink</a></b>
       <br><sub>Decentralized academic registry on Stellar; zero-backend, SHA-256 on-chain anchoring.</sub>
       <br><sub>🥈 1st Runner-Up — Stellar Unitour Bootcamp</sub>
+      <br><sub><a href="https://veracity-link.vercel.app">Live ↗</a> · <a href="https://github.com/polsalarm/VeracityLink3.0">Code ↗</a></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/polsalarm/negosyonav">
+      <a href="https://negosyonav.vercel.app">
         <img src="https://opengraph.githubassets.com/main/polsalarm/negosyonav" width="100%" alt="NegosyoNav" />
       </a>
-      <br><b><a href="https://github.com/polsalarm/negosyonav">NegosyoNav</a></b>
+      <br><b><a href="https://negosyonav.vercel.app">NegosyoNav</a></b>
       <br><sub>Civic-tech PWA; Gemini AI co-pilot auto-fills government AcroForms (Document AI + pdf-lib).</sub>
       <br><sub>🏆 Track C Champion — InnOlympics 2026</sub>
+      <br><sub><a href="https://negosyonav.vercel.app">Live ↗</a> · <a href="https://github.com/polsalarm/negosyonav">Code ↗</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/polsalarm/ScoutGrid">
+      <a href="https://scout-grid.vercel.app">
         <img src="https://opengraph.githubassets.com/main/polsalarm/ScoutGrid" width="100%" alt="ScoutGrid" />
       </a>
-      <br><b><a href="https://github.com/polsalarm/ScoutGrid">ScoutGrid</a></b>
+      <br><b><a href="https://scout-grid.vercel.app">ScoutGrid</a></b>
       <br><sub>eSports scouting + DeFi on Soroban — trustless buyouts, protocol royalties, tiered lending. Gemini market intel.</sub>
       <br><sub>⚡ Soroban · Zustand sync engine</sub>
+      <br><sub><a href="https://scout-grid.vercel.app">Live ↗</a> · <a href="https://github.com/polsalarm/ScoutGrid">Code ↗</a></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/polsalarm/gora-keribels-ide">
+      <a href="https://gora-keribels-ide.vercel.app">
         <img src="https://opengraph.githubassets.com/main/polsalarm/gora-keribels-ide" width="100%" alt="Gora Keribels" />
       </a>
-      <br><b><a href="https://github.com/polsalarm/gora-keribels-ide">Gora Keribels</a></b>
+      <br><b><a href="https://gora-keribels-ide.vercel.app">Gora Keribels</a></b>
       <br><sub>Full-stack web IDE + custom language; real-time Python compiler, FastAPI AST interpreter, dockable React IDE.</sub>
       <br><sub>🛠️ FastAPI · flexlayout-react</sub>
+      <br><sub><a href="https://gora-keribels-ide.vercel.app">Live ↗</a> · <a href="https://github.com/polsalarm/gora-keribels-ide">Code ↗</a></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/polsalarm/dynasty-stats-neoterritory">
+      <a href="https://dynasty-tracker-neoterritory.vercel.app">
         <img src="https://opengraph.githubassets.com/main/polsalarm/dynasty-stats-neoterritory" width="100%" alt="NeoTerritory" />
       </a>
-      <br><b><a href="https://github.com/polsalarm/dynasty-stats-neoterritory">NeoTerritory</a></b>
+      <br><b><a href="https://dynasty-tracker-neoterritory.vercel.app">NeoTerritory</a></b>
       <br><sub>Markov-based model isolating hidden dependencies in political dynasties — "Adaptive Independence" framework.</sub>
       <br><sub>🚀 Finalist — IBM Hackathon 2025</sub>
+      <br><sub><a href="https://dynasty-tracker-neoterritory.vercel.app">Live ↗</a> · <a href="https://github.com/polsalarm/dynasty-stats-neoterritory">Code ↗</a></sub>
     </td>
   </tr>
 </table>
 
 <!-- HACKATHON WINS -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hackathon Wins
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F7B500&center=true&vCenter=true&width=760&lines=1st+Runner+Up+-+UPSoComsci+Hack+It+Up+2026;1st+Runner+Up+-+Agora+Hackathon+PH+2026;Track+C+Champion+-+InnOlympics+2026;1st+Runner-Up+-+Stellar+Unitour+Bootcamp;Top+10+Finalist+-+Build+the+Future+of+Finance+2026;Finalist+-+NASA+%26+IBM+Hackathons+2025" alt="hackathon wins" />
+
+</div>
 
 <details>
   <summary><b>🏆 Click to expand my hackathon track record</b></summary>
@@ -197,11 +211,6 @@ const paul: Engineer & ProductPerson = {
 
 <!-- ACTIVITY GRAPH -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=polsalarm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED" alt="activity graph" />
-
-<br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=polsalarm&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 
 <br/>
 
