@@ -119,7 +119,7 @@ const paul: Developer = {
 | 🥈 **1st Runner Up** | Agora Hackathon PH 2026 — Build Next-Gen AI Sales Agent | **Ka Asenso** | Voice-commerce, AI sales agent, Web |
 | 🏆 **Track C Champion** | InnOlympics Hackathon 2026 | **NegosyoNav** | React 19, TS, tRPC, Firebase, Node.js, Gemini AI |
 | 🥈 **1st Runner-Up** | Stellar Unitour Bootcamp | **VeracityLink** | Stellar, Rust (Soroban), React, Vite, Tailwind |
-| 🚀 **Top 10 Finalist** | Build the Future of Finance Hackathon (May 2026) | — | — |
+| 🚀 **Top 10 Finalist** | Build the Future of Finance Hackathon (May 2026) | **PalengkePay Pro** | Stellar **Mainnet**, Rust (Soroban), React 19, Vite, TS, Tailwind v4 |
 | 🚀 **Finalist** | NASA Hackathon 2025 | **RAIN-RAIN-GO-AWAY** | Python, MERRA-2 dataset, PHP, CSS |
 | 🚀 **Finalist** | IBM Hackathon 2025 | **NeoTerritory: Dynasty Tracker** | Python, TypeScript, JS, CSS |
 
