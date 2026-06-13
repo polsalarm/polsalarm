@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://github.com/polsalarm#person",
+  "name": "Paul Henry Dacalan",
+  "givenName": "Paul Henry",
+  "familyName": "Dacalan",
+  "jobTitle": "Software Engineer",
+  "description": "Filipino software engineer (FEU Tech '27) building award-winning Web3 dApps on Stellar, AI-powered civic tech, and CI/CD tooling.",
+  "url": "https://pauldacalan.vercel.app/",
+  "email": "mailto:pauldacalan@gmail.com",
+  "image": "https://github.com/polsalarm.png",
+  "nationality": "Filipino",
+  "homeLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "PH"
+    }
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "FEU Institute of Technology (FEU Tech)"
+  },
+  "memberOf": [
+    { "@type": "Organization", "name": "Stellar Philippines", "roleName": "Ambassador" },
+    { "@type": "Organization", "name": "AWS User Group e:Novators PH", "roleName": "Committee Member" },
+    { "@type": "Organization", "name": "WorkFlow PH (AWS Cloud Club PH)", "roleName": "DevTeam" }
+  ],
+  "knowsAbout": [
+    "TypeScript", "JavaScript", "Python", "Rust", "Solidity",
+    "React", "Next.js", "Node.js", "tRPC",
+    "Stellar", "Soroban", "Smart Contracts", "Web3",
+    "Gemini", "AI Integration",
+    "Docker", "Kubernetes", "CI/CD", "DevOps"
+  ],
+  "sameAs": [
+    "https://github.com/polsalarm",
+    "https://www.linkedin.com/in/paul-dacalan/",
+    "https://pauldacalan.vercel.app/"
+  ],
+  "award": [
+    "1st Runner Up — UPSoComsci Hack It Up 2026 (PalengkePay)",
+    "1st Runner Up — Agora Hackathon PH 2026 (Ka Asenso)",
+    "Track C Champion — InnOlympics 2026 (NegosyoNav)",
+    "1st Runner-Up — Stellar Unitour Bootcamp (VeracityLink)",
+    "Top 10 Finalist — Build the Future of Finance 2026 (PalengkePay Pro)",
+    "Finalist — NASA Hackathon 2025",
+    "Finalist — IBM Hackathon 2025",
+    "CCSMA Dean's Lister Gold (Jul 2025)",
+    "CCSMA Dean's Lister Bronze (Apr 2025)"
+  ],
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "BackTrack",
+      "description": "CI/CD automated rollback system for Docker & Kubernetes (thesis, Project Manager). 94.35% F1 anomaly detection, 71.85s avg MTTR, 4.68/5 ISO/IEC 25010."
+    }
+  ]
+}

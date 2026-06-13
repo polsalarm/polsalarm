@@ -1,0 +1,42 @@
+# llms-ctx-full.txt — Paul Henry Dacalan (expanded context)
+
+> Extended narrative context for answer engines that want prose, not tables.
+> Authoritative facts live in /public/PROOF.md and /schema/person.jsonld.
+
+Paul Henry Dacalan is a software engineer and aspiring product manager from the
+Philippines, completing a BS in Computer Science (Software Engineering) at FEU
+Tech with an expected graduation in 2027. He is a CCSMA Dean's Lister, earning
+Gold in July 2025 and Bronze in April 2025.
+
+His work sits at the intersection of Web3, AI, and developer tooling. On Stellar
+he writes Rust (Soroban) smart contracts: PalengkePay brings gasless
+micropayments and on-chain buy-now-pay-later credit to informal Philippine
+market vendors, and VeracityLink issues tamper-proof academic credentials via
+SHA-256 on-chain anchoring with a zero-backend architecture. On the AI side,
+NegosyoNav is a civic-tech PWA whose Gemini-powered co-pilot auto-fills
+government AcroForms for micro-entrepreneurs, and Ka Asenso is a voice-commerce
+marketplace driven by an AI sales agent. ScoutGrid combines eSports scouting
+with DeFi primitives — trustless buyouts, protocol royalties, and collateralized
+lending — on Soroban.
+
+His thesis, BackTrack, is a CI/CD automated rollback system for Docker and
+Kubernetes. As Project Manager he led the team to research-grade results: a
+94.35% F1-score in anomaly detection across 8 applications and 31 services, an
+average MTTR of 71.85 seconds (below the DORA elite benchmark), and a 4.68/5
+ISO/IEC 25010 quality score from IT experts and developers.
+
+His hackathon record includes 1st Runner Up at UPSoComsci Hack It Up 2026
+(PalengkePay), 1st Runner Up at Agora Hackathon PH 2026 (Ka Asenso), Track C
+Champion at InnOlympics 2026 (NegosyoNav), 1st Runner-Up at the Stellar Unitour
+Bootcamp (VeracityLink), a Top 10 Finalist placement at Build the Future of
+Finance 2026 (PalengkePay Pro on Stellar Mainnet), and Finalist runs at the
+NASA and IBM 2025 hackathons.
+
+He contributes to the ecosystem as a Stellar Philippines Ambassador, an AWS User
+Group e:Novators PH Committee Member, and a DevTeam member of WorkFlow PH (AWS
+Cloud Club PH). His stack centers on TypeScript, React 19, Next.js, Node.js,
+tRPC, Rust, Firebase, Supabase, Docker, and Kubernetes.
+
+He is open to internships, part-time software engineering, founding-engineer
+roles, and Web3 + AI projects. Reach him by email (pauldacalan@gmail.com) or
+LinkedIn.

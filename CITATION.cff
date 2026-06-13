@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you reference this profile or its projects, please cite as below."
+type: software
+title: "Paul Henry Dacalan — GitHub Profile"
+abstract: >-
+  Profile and machine-readable index for Paul Henry Dacalan, a Filipino
+  software engineer building Web3 dApps on Stellar, AI-powered civic tech,
+  and CI/CD tooling.
+authors:
+  - given-names: "Paul Henry"
+    family-names: "Dacalan"
+    email: "pauldacalan@gmail.com"
+    affiliation: "FEU Institute of Technology"
+repository-code: "https://github.com/polsalarm/polsalarm"
+url: "https://pauldacalan.vercel.app/"
+date-released: 2026-06-14
+license: MIT
+keywords:
+  - software-engineering
+  - web3
+  - stellar
+  - soroban
+  - rust
+  - typescript
+  - react
+  - ai
+  - ci-cd
+  - devops

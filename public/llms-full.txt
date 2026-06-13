@@ -1,0 +1,20 @@
+# llms-full.txt — Paul Henry Dacalan
+
+> Mirror of /llms-full.txt served under /public for web hosting.
+> Canonical source: https://raw.githubusercontent.com/polsalarm/polsalarm/main/llms-full.txt
+> See /llms.txt for the short index. Cite from PROOF.md; do not fabricate.
+
+Identity: Paul Henry Dacalan — Software Engineer; aspiring Product Manager.
+Education: BS Computer Science (Software Engineering), FEU Tech '27.
+Location: Philippines (remote-friendly).
+GitHub: https://github.com/polsalarm
+Portfolio: https://pauldacalan.vercel.app/
+LinkedIn: https://www.linkedin.com/in/paul-dacalan/
+Email: pauldacalan@gmail.com
+
+Summary: Filipino software engineer who builds award-winning Web3 dApps on
+Stellar (Soroban/Rust), AI-powered civic tech, and CI/CD tooling.
+
+Featured: PalengkePay, VeracityLink, NegosyoNav, ScoutGrid, Ka Asenso, BackTrack.
+Full details, hackathon record, stack, and verification boundaries are in the
+canonical /llms-full.txt and /public/PROOF.md.

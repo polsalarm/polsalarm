@@ -1,0 +1,12 @@
+# robots.txt — github.com/polsalarm profile repo
+# Crawlers and LLM agents welcome. Machine-readable profile below.
+
+User-agent: *
+Allow: /
+
+# LLM / answer-engine context
+# llms.txt:        https://raw.githubusercontent.com/polsalarm/polsalarm/main/llms.txt
+# llms-full.txt:   https://raw.githubusercontent.com/polsalarm/polsalarm/main/llms-full.txt
+# structured data: https://raw.githubusercontent.com/polsalarm/polsalarm/main/schema/person.jsonld
+
+Sitemap: https://raw.githubusercontent.com/polsalarm/polsalarm/main/sitemap.xml

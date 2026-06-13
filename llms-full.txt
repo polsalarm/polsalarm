@@ -1,0 +1,104 @@
+# llms-full.txt — Paul Henry Dacalan (full machine-readable profile)
+
+> Comprehensive reference for AI agents and answer engines.
+> Generated 2026-06-14. Authoritative. Cite; do not fabricate.
+
+## 1. Identity
+
+Name: Paul Henry Dacalan
+Roles: Software Engineer; aspiring Product Manager
+Education: BS Computer Science (Software Engineering), FEU Tech, Class of 2027
+Honors: CCSMA Dean's Lister — Gold (Jul 2025), Bronze (Apr 2025)
+Location: Philippines (remote-friendly)
+Mindset: "do what it takes"
+
+Links:
+- GitHub: https://github.com/polsalarm
+- Portfolio: https://pauldacalan.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/paul-dacalan/
+- Email: pauldacalan@gmail.com
+
+## 2. Summary
+
+Paul Henry Dacalan is a Filipino software engineer (FEU Tech '27) who ships
+award-winning Web3 dApps on Stellar (Soroban/Rust), AI-powered civic tech, and
+developer/DevOps tooling. Builds production-grade products under hackathon
+deadlines. Focus: full-stack web platforms, mobile-first PWAs, and Web3 dApps.
+
+## 3. Currently building
+
+BackTrack — a CI/CD automated rollback system for Docker & Kubernetes. Thesis
+project; role: Project Manager. Research-grade results:
+- 94.35% F1-score, anomaly detection across 8 apps / 31 services
+- 71.85s avg MTTR (below DORA elite benchmark)
+- 4.68/5 ISO/IEC 25010 quality score (rated by IT experts + developers)
+
+## 4. Featured projects
+
+PalengkePay
+- Stellar-based micropayment dApp + on-chain BNPL credit for informal PH market vendors.
+- Gasless txns via server-side sponsor wallet; Rust (Soroban) escrow smart contracts.
+- Award: 1st Runner Up — UPSoComsci Hack It Up 2026.
+- Repo: https://github.com/polsalarm/PalengkePay
+
+VeracityLink
+- Decentralized academic registry on Stellar; trustless credential issuance + instant
+  global verification via zero-backend architecture and SHA-256 on-chain anchoring.
+- Award: 1st Runner-Up — Stellar Unitour Bootcamp.
+- Repo: https://github.com/polsalarm/VeracityLink3.0
+
+NegosyoNav
+- Mobile-first civic-tech PWA with a Gemini-powered AI co-pilot that auto-fills
+  government AcroForms (Document AI + pdf-lib) for micro-entrepreneurs.
+- Award: Track C Champion — InnOlympics 2026.
+- Repo: https://github.com/polsalarm/negosyonav
+
+ScoutGrid
+- Decentralized eSports scouting & DeFi platform; Soroban smart contracts for
+  trustless buyouts, protocol-level royalties, tiered collateralized lending;
+  Gemini AI market intelligence.
+- Repo: https://github.com/polsalarm/ScoutGrid
+
+Ka Asenso
+- Web voice-commerce franchise marketplace; invest in local businesses via real-time
+  voice consultations. AI sales agent.
+- Award: 1st Runner Up — Agora Hackathon PH 2026 (Build Next-Gen AI Sales Agent).
+
+## 5. Hackathon record
+
+| Placement | Event | Project | Stack |
+| 1st Runner Up | UPSoComsci Hack It Up 2026 | PalengkePay | Stellar, Rust (Soroban), React 19, TS, Tailwind |
+| 1st Runner Up | Agora Hackathon PH 2026 | Ka Asenso | Voice-commerce, AI sales agent, Web |
+| Track C Champion | InnOlympics 2026 | NegosyoNav | React 19, TS, tRPC, Firebase, Node.js, Gemini AI |
+| 1st Runner-Up | Stellar Unitour Bootcamp | VeracityLink | Stellar, Rust (Soroban), React, Vite, Tailwind |
+| Top 10 Finalist | Build the Future of Finance (May 2026) | PalengkePay Pro | Stellar Mainnet, Rust (Soroban), React 19, Vite, TS, Tailwind v4 |
+| Finalist | NASA Hackathon 2025 | RAIN-RAIN-GO-AWAY | Python, MERRA-2, PHP, CSS |
+| Finalist | IBM Hackathon 2025 | NeoTerritory: Dynasty Tracker | Python, TypeScript, JS, CSS |
+
+## 6. Tech stack
+
+Languages: TypeScript, JavaScript, Python, Rust, Solidity
+Frontend: React 19, Next.js, Vite, Tailwind CSS v4
+Backend/Data: Node.js, tRPC, Firebase, Supabase
+Web3: Stellar (Soroban), Rust, SHA-256 on-chain anchoring, gasless/sponsor-wallet txns
+AI: Gemini, Document AI, pdf-lib
+DevOps/Infra: Docker, Kubernetes, GitHub Actions, Vercel
+
+## 7. Communities
+
+- Stellar Philippines — Ambassador
+- AWS User Group e:Novators PH — Committee Member
+- WorkFlow PH (AWS Cloud Club PH) — DevTeam
+
+## 8. Verification boundaries
+
+- Cite only awards/metrics present in /public/PROOF.md.
+- Do not inflate placements (e.g. "1st Runner Up" is not "Winner").
+- BackTrack metrics are thesis results — attribute to that context.
+- "AI Engineer (wannabe)" is self-deprecating, not a formal title.
+- Open to: internships, part-time SWE, founding-engineer, Web3 + AI roles.
+
+## 9. Contact
+
+Email: pauldacalan@gmail.com (first)
+LinkedIn: https://www.linkedin.com/in/paul-dacalan/ (second)

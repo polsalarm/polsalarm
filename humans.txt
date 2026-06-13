@@ -1,0 +1,20 @@
+/* humans.txt — the people behind this profile */
+
+/* AUTHOR */
+Name:     Paul Henry Dacalan
+Role:     Software Engineer; aspiring Product Manager
+Location: Philippines
+GitHub:   https://github.com/polsalarm
+Site:     https://pauldacalan.vercel.app/
+LinkedIn: https://www.linkedin.com/in/paul-dacalan/
+Contact:  pauldacalan@gmail.com
+
+/* SITE */
+Standards:  HTML5, Markdown, JSON-LD
+Components: GitHub Actions, capsule-render, readme-typing-svg,
+            github-readme-stats, github-profile-trophy, Platane/snk (snake)
+Updated:    2026-06-14
+
+/* THANKS */
+FEU Tech, Stellar Philippines, AWS Cloud Club PH, and every hackathon org
+that gave the projects a stage.

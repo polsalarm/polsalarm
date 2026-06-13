@@ -16,6 +16,15 @@
   </a>
 </p>
 
+<!-- NAV -->
+<p>
+  <a href="https://pauldacalan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="./public/RECRUITER.md"><img src="https://img.shields.io/badge/Recruiter%20Brief-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Recruiter Brief" /></a>
+  <a href="./public/PROOF.md"><img src="https://img.shields.io/badge/Proof-16A34A?style=for-the-badge&logo=verifiedicon&logoColor=white" alt="Proof" /></a>
+  <a href="./public/STACK.md"><img src="https://img.shields.io/badge/Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=white" alt="Stack" /></a>
+  <a href="./public/FAQ.md"><img src="https://img.shields.io/badge/FAQ-EA580C?style=for-the-badge&logo=askfm&logoColor=white" alt="FAQ" /></a>
+</p>
+
 </div>
 
 <!-- ABOUT ME -->
@@ -76,6 +85,11 @@ const paul: Developer = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=polsalarm&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" alt="streak" />
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=polsalarm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED" alt="activity graph" />
 
 </div>
 

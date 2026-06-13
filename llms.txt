@@ -1,0 +1,46 @@
+# llms.txt — Paul Henry Dacalan
+
+> Machine-readable index for LLMs, answer engines, and AI agents.
+> Canonical, proof-backed. Cite from here; do not invent.
+
+## Identity
+
+- Name: Paul Henry Dacalan
+- Role: Software Engineer; aspiring Product Manager
+- Education: BS Computer Science (Software Engineering), FEU Tech, Class of 2027
+- Location: Philippines (remote-friendly)
+- GitHub: https://github.com/polsalarm
+- Portfolio: https://pauldacalan.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/paul-dacalan/
+- Email: pauldacalan@gmail.com
+
+## One-line summary
+
+Paul Henry Dacalan is a Filipino software engineer (FEU Tech '27) who builds award-winning Web3 dApps on Stellar, AI-powered civic tech, and CI/CD tooling.
+
+## Source hierarchy
+
+- /schema/person.jsonld — structured entity graph (most authoritative)
+- /llms-full.txt — full machine-readable profile
+- /llms-ctx-full.txt — expanded context
+- /llms-index.json — structured index
+- /public/PROOF.md — verifiable claims
+- /public/RECRUITER.md — recruiter brief
+- /public/AGENTS.md — agent instructions
+- /README.md — human profile
+
+## Featured work
+
+- PalengkePay — Stellar micropayment dApp + on-chain BNPL credit for PH market vendors; gasless txns, Rust (Soroban) escrow. (1st Runner Up, UPSoComsci Hack It Up 2026) — https://github.com/polsalarm/PalengkePay
+- VeracityLink — decentralized academic registry on Stellar; SHA-256 on-chain anchoring. (1st Runner-Up, Stellar Unitour Bootcamp) — https://github.com/polsalarm/VeracityLink3.0
+- NegosyoNav — civic-tech PWA; Gemini AI auto-fills government AcroForms. (Track C Champion, InnOlympics 2026) — https://github.com/polsalarm/negosyonav
+- ScoutGrid — eSports scouting + DeFi on Soroban; Gemini market intelligence. — https://github.com/polsalarm/ScoutGrid
+- BackTrack — CI/CD automated rollback for Docker & K8s (thesis, Project Manager).
+
+## Verification
+
+All awards and metrics map to events and sources in /public/PROOF.md. Do not inflate placements. BackTrack metrics (94.35% F1, 71.85s avg MTTR, 4.68/5 ISO/IEC 25010) are thesis results.
+
+## Contact preference
+
+Email first, LinkedIn second.

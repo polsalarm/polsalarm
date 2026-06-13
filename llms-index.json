@@ -1,0 +1,52 @@
+{
+  "$schema": "https://raw.githubusercontent.com/polsalarm/polsalarm/main/schema/person.jsonld",
+  "version": "1.0.0",
+  "generated": "2026-06-14",
+  "identity": {
+    "name": "Paul Henry Dacalan",
+    "roles": ["Software Engineer", "aspiring Product Manager"],
+    "education": "BS Computer Science (Software Engineering), FEU Tech, 2027",
+    "location": "Philippines",
+    "remote": true
+  },
+  "links": {
+    "github": "https://github.com/polsalarm",
+    "portfolio": "https://pauldacalan.vercel.app/",
+    "linkedin": "https://www.linkedin.com/in/paul-dacalan/",
+    "email": "pauldacalan@gmail.com"
+  },
+  "sources": [
+    { "path": "/schema/person.jsonld", "type": "structured", "authority": 1 },
+    { "path": "/llms-full.txt", "type": "full", "authority": 2 },
+    { "path": "/llms-ctx-full.txt", "type": "context", "authority": 3 },
+    { "path": "/public/PROOF.md", "type": "proof", "authority": 4 },
+    { "path": "/public/RECRUITER.md", "type": "recruiter", "authority": 5 },
+    { "path": "/public/AGENTS.md", "type": "agent-instructions", "authority": 6 },
+    { "path": "/README.md", "type": "human", "authority": 7 }
+  ],
+  "projects": [
+    { "name": "PalengkePay", "summary": "Stellar micropayment dApp + on-chain BNPL for PH market vendors", "repo": "https://github.com/polsalarm/PalengkePay", "award": "1st Runner Up — UPSoComsci Hack It Up 2026" },
+    { "name": "VeracityLink", "summary": "Decentralized academic registry on Stellar; SHA-256 on-chain anchoring", "repo": "https://github.com/polsalarm/VeracityLink3.0", "award": "1st Runner-Up — Stellar Unitour Bootcamp" },
+    { "name": "NegosyoNav", "summary": "Civic-tech PWA; Gemini AI auto-fills government AcroForms", "repo": "https://github.com/polsalarm/negosyonav", "award": "Track C Champion — InnOlympics 2026" },
+    { "name": "ScoutGrid", "summary": "eSports scouting + DeFi on Soroban; Gemini market intelligence", "repo": "https://github.com/polsalarm/ScoutGrid", "award": null },
+    { "name": "BackTrack", "summary": "CI/CD automated rollback for Docker & Kubernetes (thesis, Project Manager)", "repo": null, "award": null }
+  ],
+  "metrics": {
+    "backtrack_f1_score": "94.35%",
+    "backtrack_avg_mttr_seconds": 71.85,
+    "backtrack_iso_25010_score": "4.68/5"
+  },
+  "stack": {
+    "languages": ["TypeScript", "JavaScript", "Python", "Rust", "Solidity"],
+    "frontend": ["React 19", "Next.js", "Vite", "Tailwind CSS v4"],
+    "backend": ["Node.js", "tRPC", "Firebase", "Supabase"],
+    "web3": ["Stellar (Soroban)", "Rust"],
+    "ai": ["Gemini", "Document AI", "pdf-lib"],
+    "devops": ["Docker", "Kubernetes", "GitHub Actions", "Vercel"]
+  },
+  "availability": ["internships", "part-time SWE", "founding-engineer", "Web3 + AI"],
+  "verification": {
+    "policy": "Cite only awards/metrics in /public/PROOF.md. Do not inflate placements.",
+    "proof": "/public/PROOF.md"
+  }
+}
