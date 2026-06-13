@@ -116,10 +116,14 @@ const paul: Developer = {
 | Placement | Event | Project | Stack |
 |-----------|-------|---------|-------|
 | 🥈 **1st Runner Up** | UPSoComsci Hack It Up 2026 | **PalengkePay** | Stellar, Rust (Soroban), React 19, TS, Tailwind |
+| 🥈 **1st Runner Up** | Agora Hackathon PH 2026 — Build Next-Gen AI Sales Agent | **Ka Asenso** | Voice-commerce, AI sales agent, Web |
 | 🏆 **Track C Champion** | InnOlympics Hackathon 2026 | **NegosyoNav** | React 19, TS, tRPC, Firebase, Node.js, Gemini AI |
 | 🥈 **1st Runner-Up** | Stellar Unitour Bootcamp | **VeracityLink** | Stellar, Rust (Soroban), React, Vite, Tailwind |
+| 🚀 **Top 10 Finalist** | Build the Future of Finance Hackathon (May 2026) | — | — |
 | 🚀 **Finalist** | NASA Hackathon 2025 | **RAIN-RAIN-GO-AWAY** | Python, MERRA-2 dataset, PHP, CSS |
 | 🚀 **Finalist** | IBM Hackathon 2025 | **NeoTerritory: Dynasty Tracker** | Python, TypeScript, JS, CSS |
+
+**Ka Asenso** — web voice-commerce franchise marketplace letting Filipinos invest in local businesses via real-time voice consultations.
 
 </details>
 
