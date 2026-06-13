@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Paul%20Henry%20Dacalan&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Product%20Manager%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Web3%20Builder&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Paul%20Henry%20Dacalan&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%2F%20Project%20%26%20Tech%20Lead%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Web3%20Builder%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=16" alt="header" />
 
 <!-- TYPING -->
 <a href="https://pauldacalan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Product+Manager+%2B+Software+Engineer;BS+CS+(Software+Engineering)+%40+FEU+Tech+'27;Stellar+Philippines+Ambassador;Project+Lead+%26+Tech+Lead;Shipping+user-centric+products+under+deadline" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Product+Manager+%2F+Project+%26+Tech+Lead;Full-Stack+Developer+%2B+Web3+Builder;BS+CS+(Software+Engineering)+%40+FEU+Tech+'27;Stellar+Philippines+Ambassador;Shipping+user-centric+products+under+deadline" alt="typing" />
 </a>
 
 <!-- BADGES -->
@@ -36,7 +36,7 @@
 const paul: Engineer & ProductPerson = {
   name: "Paul Henry Dacalan",
   title: "Aspiring Product Manager & Software Engineer",
-  roles: ["Project Lead", "Tech Lead", "Product Manager"],
+  roles: ["Product Manager", "Project Lead", "Tech Lead", "Full-Stack Developer", "Web3 Builder"],
   education: "BS Computer Science (Software Engineering) @ FEU Tech '27",
   honors: ["CCSMA Dean's Lister — Gold (Jul 2025)", "Bronze (Apr 2025)"],
   currentlyBuilding: "BackTrack — CI/CD automated rollback for Docker & K8s (thesis)",
