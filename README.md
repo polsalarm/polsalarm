@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Paul%20Henry%20Dacalan&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%2F%20Project%20%26%20Tech%20Lead%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Web3%20Builder%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Paul%20Henry%20Dacalan&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%7C%20Software%20Engineer%20%7C%20Web3%20Builder&descAlignY=58&descSize=18" alt="header" />
 
 <!-- TYPING -->
 <a href="https://pauldacalan.vercel.app/">
@@ -30,10 +30,6 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
 
-<table border="0">
-<tr>
-<td width="62%" valign="top">
-
 Aspiring **Product Manager** & **Software Engineer**, currently a CS student at **FEU Tech '27**. I lead cross-functional teams as **Project / Tech Lead**, translating user pain points into shipped features — defining roadmaps, prioritizing scope under tight constraints, and aligning design with technical feasibility.
 
 - 🔭  **Building BackTrack** — leading a 4-person team on a CI/CD automated rollback system that detects deployment anomalies in Docker & Kubernetes via Time Series Decomposition + Latent Semantic Indexing *(undergrad thesis · Project Manager)*
@@ -45,15 +41,6 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
 - 🎓  **CCSMA Dean's Lister** — Gold (Jul 2025), Bronze (Apr 2025)
 - 💬  Ask me about **Stellar · Soroban · Rust · React · tRPC**
 - ⚡  Mindset: *do what it takes*
-
-</td>
-<td width="38%" valign="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
-
-</td>
-</tr>
-</table>
 
 > **BackTrack (thesis · Project Manager)** — led a 4-member team building a CI/CD automated rollback system that detects deployment anomalies in Docker & Kubernetes via Time Series Decomposition (TSD) and Latent Semantic Indexing (LSI). Drove research-grade results: **94.35% F1-score** across 8 apps / 31 services, **71.85s avg MTTR** (below DORA's elite benchmark), and a **4.68/5 ISO/IEC 25010** quality score from IT experts and developers.
 
