@@ -183,12 +183,19 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
 </div>
 
 <!-- GITHUB STATS -->
+<!-- NOTE: card hosts are community mirrors. Upstream demos died 2026-08-31:
+     github-readme-stats.vercel.app = 503 DEPLOYMENT_PAUSED
+     github-readme-activity-graph.vercel.app = 402 DEPLOYMENT_DISABLED
+     If a mirror below breaks, swap the host (params stay identical):
+       stats/top-langs: github-readme-stats-sigma-five.vercel.app | github-readme-stats-eight-theta.vercel.app
+       activity graph:  activity-graph.vercel.app
+     Permanent fix: self-host both on your own Vercel with a GitHub PAT. -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=polsalarm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polsalarm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="top langs" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=polsalarm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB" alt="stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=polsalarm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="top langs" />
 
 <br/>
 
@@ -197,7 +204,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=polsalarm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED" alt="activity graph" />
+<img width="95%" src="https://github-readme-activity-graph-plum.vercel.app/graph?username=polsalarm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED" alt="activity graph" />
 
 <br/>
 
