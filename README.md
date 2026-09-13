@@ -199,7 +199,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=polsalarm&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=polsalarm&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED&v=1" alt="streak" />
 
 <br/>
 
