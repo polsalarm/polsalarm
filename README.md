@@ -84,7 +84,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
   <tr>
     <td align="center" width="33%">
       <a href="https://palengke-pay.vercel.app">
-        <img src="https://opengraph.githubassets.com/main/polsalarm/PalengkePay" width="100%" alt="PalengkePay" />
+        <img src="./public/demos/palengkepay.gif" width="100%" alt="PalengkePay" />
       </a>
       <br><b><a href="https://palengke-pay.vercel.app">PalengkePay</a></b>
       <br><sub>Stellar micropayment dApp + on-chain BNPL for PH market vendors. Gasless txns, Rust (Soroban) escrow.</sub>
@@ -93,7 +93,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
     </td>
     <td align="center" width="33%">
       <a href="https://veracity-link.vercel.app">
-        <img src="https://opengraph.githubassets.com/main/polsalarm/VeracityLink3.0" width="100%" alt="VeracityLink" />
+        <img src="./public/demos/veracitylink.gif" width="100%" alt="VeracityLink" />
       </a>
       <br><b><a href="https://veracity-link.vercel.app">VeracityLink</a></b>
       <br><sub>Decentralized academic registry on Stellar; zero-backend, SHA-256 on-chain anchoring.</sub>
@@ -113,7 +113,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
   <tr>
     <td align="center" width="33%">
       <a href="https://scout-grid.vercel.app">
-        <img src="https://opengraph.githubassets.com/main/polsalarm/ScoutGrid" width="100%" alt="ScoutGrid" />
+        <img src="./public/demos/scoutgrid.gif" width="100%" alt="ScoutGrid" />
       </a>
       <br><b><a href="https://scout-grid.vercel.app">ScoutGrid</a></b>
       <br><sub>eSports scouting + DeFi on Soroban — trustless buyouts, protocol royalties, tiered lending. Gemini market intel.</sub>
@@ -131,7 +131,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
     </td>
     <td align="center" width="33%">
       <a href="https://dynasty-tracker-neoterritory.vercel.app">
-        <img src="https://opengraph.githubassets.com/main/polsalarm/dynasty-stats-neoterritory" width="100%" alt="NeoTerritory" />
+        <img src="./public/demos/neoterritory.gif" width="100%" alt="NeoTerritory" />
       </a>
       <br><b><a href="https://dynasty-tracker-neoterritory.vercel.app">NeoTerritory</a></b>
       <br><sub>Markov-based model isolating hidden dependencies in political dynasties — "Adaptive Independence" framework.</sub>
