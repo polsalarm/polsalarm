@@ -189,6 +189,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
      If a mirror below breaks, swap the host (params stay identical):
        stats/top-langs: github-readme-stats-sigma-five.vercel.app | github-readme-stats-eight-theta.vercel.app
        activity graph:  activity-graph.vercel.app
+       streak:          streak-stats.demolab.com (official) | github-readme-streak-stats-ashen.vercel.app
      Permanent fix: self-host both on your own Vercel with a GitHub PAT. -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Stats
 
@@ -199,7 +200,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
 
 <br/>
 
-<img src="https://github-readme-streak-stats-ashen.vercel.app?user=polsalarm&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED&v=2" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=polsalarm&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED&v=3" alt="streak" />
 
 <br/>
 
