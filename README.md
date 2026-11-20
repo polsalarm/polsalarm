@@ -209,8 +209,17 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
 
 <br/>
 
-<!-- SNAKE -->
-<img src="https://raw.githubusercontent.com/polsalarm/polsalarm/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<!-- 3D CONTRIBUTION CALENDAR (built daily by .github/workflows/profile-visuals.yml) -->
+<img width="95%" src="https://raw.githubusercontent.com/polsalarm/polsalarm/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+
+<br/>
+
+<!-- PAC-MAN (built daily by the same workflow; the snake SVG is still generated if you want to swap back) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polsalarm/polsalarm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polsalarm/polsalarm/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/polsalarm/polsalarm/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 </div>
 
