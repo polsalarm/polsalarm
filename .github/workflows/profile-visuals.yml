@@ -27,8 +27,12 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
 
+      # Pinned to a main commit: the out-of-memory fix (upstream PR #19)
+      # landed after the v5.0.0 release. continue-on-error keeps a flaky
+      # Pac-Man run from blocking the other images.
       - name: Generate Pac-Man SVGs
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@70945878b1118303b37b88060fc7145e1a57d7b1
         with:
           github_user_name: ${{ github.repository_owner }}
           games: pacman
