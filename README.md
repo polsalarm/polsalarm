@@ -195,7 +195,7 @@ Aspiring **Product Manager** & **Software Engineer**, currently a CS student at 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=polsalarm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB" alt="stats" />
+<img height="165" src="https://polsalarm-readme-stats.vercel.app/api?username=polsalarm&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB" alt="stats" />
 <img height="165" src="https://polsalarm-readme-stats.vercel.app/api/top-langs/?username=polsalarm&layout=compact&langs_count=10&hide=makefile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="top langs" />
 
 <br/>
